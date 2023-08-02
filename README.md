@@ -1,3 +1,4 @@
+![logo](https://github.com/tharun-kumar-8/tharun-kumar-8/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Tharun Kumar G</h1>
 <h3 align="center">A passionate Frontend Developer and a tech enthusiast from India</h3>
 
